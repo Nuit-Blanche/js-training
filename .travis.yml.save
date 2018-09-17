@@ -1,0 +1,8 @@
+```
+script: ./tester basics
+language: node_js
+node_js:
+  - "nodescript: ./tester
+language: node_js
+node_js:
+  - "node"
