@@ -8,6 +8,10 @@
  */
 
 // Your code :
+function getFirst(salut) {
+    return salut[0]
+    
+}
 
 //* Begin of tests
 const assert = require('assert')
